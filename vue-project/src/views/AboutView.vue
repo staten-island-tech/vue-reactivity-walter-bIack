@@ -12,4 +12,7 @@
     align-items: center;
   }
 }
+h1 {
+  background-color: red;
+}
 </style>
