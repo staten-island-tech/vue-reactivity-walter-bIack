@@ -67,7 +67,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Witch',
@@ -167,7 +167,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Wizard',
@@ -247,7 +247,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Guards',
@@ -279,7 +279,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Three Musketeers',
@@ -289,7 +289,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Lava Hound',
@@ -419,7 +419,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Goblin Gang',
@@ -430,7 +430,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Electro Wizard',
@@ -496,7 +496,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Night Witch',
@@ -595,7 +595,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Flying Machine',
@@ -628,7 +628,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Royal inDeck: false, arena'
+    arena: 'Royal arena'
   },
   {
     name: 'Goblin Giant',
@@ -639,7 +639,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png',
     troopType: 'Troop',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Fisherman',
@@ -881,7 +881,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/ho0nOG2y3Ch86elHHcocQs8Fv_QNe0cFJ2CijsxABZA.png',
     troopType: 'Building',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Tesla',
@@ -1068,7 +1068,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png',
     troopType: 'Spell',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Graveyard',
@@ -1134,7 +1134,7 @@ export default [
       'https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png',
     troopType: 'Spell',
     inDeck: false,
-    arena: 'Jungle inDeck: false, arena'
+    arena: 'Jungle arena'
   },
   {
     name: 'Heal Spirit',
